@@ -1,0 +1,19 @@
+{
+  "name": "awschime",
+  "version": "1.0.0",
+  "description": "AWS Chime SDK implementation",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rehan",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1335.0",
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "http": "^0.0.1-security",
+    "https": "^1.0.0",
+    "morgan": "^1.10.0"
+  }
+}
